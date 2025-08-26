@@ -1,10 +1,10 @@
-# [2025년 한이음 드림업] README_SAMPLE 📝
+ 📝 # [2025년 한이음 드림업] README_SAMPLE
 
 - README 파일 작성시, 아래 5가지 항목 내용은 필수로 작성해야 합니다.
 - 아래 항목이외에 이해를 돕기위한 내용을 자유롭게 추가해도 됩니다.
 ---
 
-## **1. 프로젝트 소개**
+💡## **1. 프로젝트 소개**
 **1-1. 프로젝트 개요**
 - 프로젝트 명 : 한이음 드림업 AI검색 서비스
 - 한줄 소개 : 사용자의 검색 의도를 이해하고 최적의 정보를 제공하는 AI 기반 맞춤형 검색 서비스
@@ -23,7 +23,7 @@
 
 ---
 
-## **2. 팀 소개**
+💡## **2. 팀 소개**
 | <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/69f6a559-ce87-478c-975c-dfb377996e58" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" width="100" height="100"> |
 |:---:|:---:|:---:|:---:|:---:|
 | **홍길동** | **한이음** | **최지수** | **이철수** | **김멘토** |
@@ -32,12 +32,12 @@
 
 
 ---
-## **3. 시스템 구성도**
+💡## **3. 시스템 구성도**
 > **참고** S/W구성도, H/W구성도, 서비스흐름도 등을 전체적으로 작성(그림을 포함한 도식 또는 흐름으로 표현)
 <img alt="image" src="https://github.com/user-attachments/assets/28fc8453-d1a0-4184-8fd0-130d93d18545" />
 
 ---
-## **4. 작품 소개영상**
+💡## **4. 작품 소개영상**
 > **참고**: 썸네일과 유튜브 영상을 등록하는 방법입니다.
 ```Python
 아래와 같이 작성하면, 썸네일과 링크등록을 할 수 있습니다.
@@ -51,7 +51,7 @@
 
 ---
 
-## **5. 핵심 소스코드**
+💡## **5. 핵심 소스코드**
 > **참고**: API를 활용해서 자동 배포를 생성하는 메서드입니다.
 
 ```Java
