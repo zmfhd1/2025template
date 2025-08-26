@@ -16,7 +16,7 @@
 | <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/69f6a559-ce87-478c-975c-dfb377996e58" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" width="100" height="100"> |
 |:---:|:---:|:---:|:---:|:---:|
 | **홍길동** | **한이음** | **최지수** | **이철수** | **김멘토** |
-| ○○대학교 <br> • 개발총괄 <br> • UI/UX 기획 | ○○대학교 <br> • 백엔드 <br> • 프론트엔드 | ○○대학교 <br> • API 개발 <br> • DB 서버 구축 | ○○대학교 <br> • 데이터 분석 <br> • 전처리 | ○○전자 <br> • 프로젝트 멘토 <br> • 기술 자문, 프로젝트 관리 |
+| ○○대학교 <br> • 개발총괄 <br> • UI/UX 기획 | ○○대학교 <br> • 백엔드 <br> • 프론트엔드 | ○○대학교 <br> • API 개발 <br> • DB 서버 구축 | ○○대학교 <br> • 데이터 분석 <br> • 전처리 | ○○전자 <br> • 프로젝트 멘토 <br> • 기술 자문 <br> • 프로젝트 관리 |
 
 
 
