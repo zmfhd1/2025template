@@ -22,9 +22,8 @@
 
 ---
 ## **3. 시스템 구성도**
+한이음 드림업 프로젝트는 창의도전형, 학점연계형(사회공헌/여성참여)로 구성되어 있습니다.
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/28fc8453-d1a0-4184-8fd0-130d93d18545" />
-<br>
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/7dafb6ee-856a-496f-9f5e-3e84841c43cf" />
 
 ---
 ## **4. 작품 소개영상**
