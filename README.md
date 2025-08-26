@@ -39,7 +39,7 @@
 ---
 ## **4. 작품 소개영상**
 
-```html
+```Python
 아래와 같이 작성하면, 썸네일과 링크등록을 할 수 있습니다.
 [![영상 제목](유튜브 썸네일 URL)](유튜브 영상 URL)
 
@@ -54,7 +54,7 @@
 ## **5. 핵심 소스코드**
 > **참고**: API를 활용해서 자동 배포를 생성하는 메서드입니다.
 
-```java
+```Java
     private static void start_deployment(JsonObject jsonObject) {
         String user = jsonObject.get("user").getAsJsonObject().get("login").getAsString();
         Map<String, String> map = new HashMap<>();
