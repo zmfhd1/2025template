@@ -13,8 +13,8 @@
 ---
 
 ## **2. 팀원 소개**
-| 이름   | 소속 | 역할     |
-|--------|------|----------|
+| 이름   | 사진 | 소속 | 역할     |
+|--------|------|------|----------|
 | 홍길동 | <img width="200" height="200" alt="ICT멘토링 캐릭터_이음" src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" />
    | ㅇㅇ대학교  | 개발총괄, UI/UX기획 |
 | 한이음 | <img width="200" height="200" alt="ICT멘토링 캐릭터_프로" src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" />
