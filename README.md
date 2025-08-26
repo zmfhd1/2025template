@@ -60,8 +60,7 @@
 아래와 같이 작성하면, 썸네일과 링크등록을 할 수 있습니다.
 [![영상 제목](유튜브 썸네일 URL)](유튜브 영상 URL)
 ```
-```
 [![한이음 드림업 프로젝트 소개](https://github.com/user-attachments/assets/16435f88-e7d3-4e45-a128-3d32648d2d84)](https://youtu.be/YcD3Lbn2FRI?si=isERqIAT9Aqvdqwp)
-```
+
 
 ---
