@@ -13,14 +13,11 @@
 ---
 
 ## **2. 팀 소개**
-## **2. 팀 소개**
+| <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="120" height="120" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | **홍길동** | ㅇㅇ대학교 | • 개발총괄<br>• UI/UX 기획 |
+| <img src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" width="120" height="120" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | **한이음** | ㅇㅇ대학교 | • 백엔드<br>• 프론트엔드 |
+| <img src="https://github.com/user-attachments/assets/69f6a559-ce87-478c-975c-dfb377996e58" width="120" height="120" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | **김지수** | ㅇㅇ대학교 | • API 개발<br>• DB 서버 구축 |
+| <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="120" height="120" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | **이철수** | ㅇㅇ대학교 | • 데이터 분석<br>• 전처리 |
 
-| <div align="center">사진</div> | <div align="center">이름</div> | <div align="center">소속</div> | <div align="center">역할</div> |
-|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
-| <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="120" height="120" style="border-radius:15px;"> | **홍길동** | ㅇㅇ대학교 | • 개발총괄<br>• UI/UX 기획 |
-| <img src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" width="120" height="120" style="border-radius:15px;"> | **한이음** | ㅇㅇ대학교 | • 백엔드<br>• 프론트엔드 |
-| <img src="https://github.com/user-attachments/assets/69f6a559-ce87-478c-975c-dfb377996e58" width="120" height="120" style="border-radius:15px;"> | **김지수** | ㅇㅇ대학교 | • API 개발<br>• DB 서버 구축 |
-| <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="120" height="120" style="border-radius:15px;"> | **이철수** | ㅇㅇ대학교 | • 데이터 분석<br>• 전처리 |
 
 
 ---
