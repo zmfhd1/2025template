@@ -26,13 +26,41 @@
 <img alt="image" src="https://github.com/user-attachments/assets/28fc8453-d1a0-4184-8fd0-130d93d18545" />
 
 ---
-## **4. 작품 소개영상**
+## **4. 핵심 소스코드**
+```
+아래와 같이 작성하면, 썸네일과 링크등록을 할 수 있습니다.
+[![영상 제목](유튜브 썸네일 URL)](유튜브 영상 URL)
+```
+    private static void start_deployment(JsonObject jsonObject) {
+        String user = jsonObject.get("user").getAsJsonObject().get("login").getAsString();
+        Map<String, String> map = new HashMap<>();
+        map.put("environment", "QA");
+        map.put("deploy_user", user);
+        Gson gson = new Gson();
+        String payload = gson.toJson(map);
+
+        try {
+            GitHub gitHub = GitHubBuilder.fromEnvironment().build();
+            GHRepository repository = gitHub.getRepository(
+                    jsonObject.get("head").getAsJsonObject()
+                            .get("repo").getAsJsonObject()
+                            .get("full_name").getAsString());
+            GHDeployment deployment =
+                    new GHDeploymentBuilder(
+                            repository,
+                            jsonObject.get("head").getAsJsonObject().get("sha").getAsString()
+                    ).description("Auto Deploy after merge").payload(payload).autoMerge(false).create();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+---
+## **5. 작품 소개영상**
 [![한이음 드림업 프로젝트 소개](https://github.com/user-attachments/assets/16435f88-e7d3-4e45-a128-3d32648d2d84)](https://youtu.be/YcD3Lbn2FRI?si=isERqIAT9Aqvdqwp)
 ```
+아래와 같이 작성하면, 썸네일과 링크등록을 할 수 있습니다.
 [![영상 제목](유튜브 썸네일 URL)](유튜브 영상 URL)
-
-예시:
-[![한이음 드림업 프로젝트 소개](width="600" height="400" https://github.com/user-attachments/assets/16435f88-e7d3-4e45-a128-3d32648d2d84)](https://youtu.be/YcD3Lbn2FRI?si=isERqIAT9Aqvdqwp)
 ```
 
 ---
