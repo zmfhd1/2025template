@@ -8,11 +8,22 @@
 - **프로젝트 명** : 한이음 드림업 AI검색 서비스
 - **한줄 소개** : AI 기반 맞춤형 검색 서비스를 통해 사용자가 원하는 데이터를 빠르고 효율적으로 탐색
 - **기대 효과** : 검색 엔진을 다양한 도메인(논문, 뉴스, 제품 정보 등)으로 확장할 수 있어, 다양한 산업 분야 적용 가능성 확보
+- **개발 환경** : 검색 엔진을 다양한 도메인(논문, 뉴스, 제품 정보 등)으로 확장할 수 있어, 다양한 산업 분야 적용 가능성 확보
 
 ---
 
 ## **2. 팀원 소개**
-(이름, 소속, 역할 기재)
+| 이름   | 소속 | 역할     |
+|--------|------|----------|
+| 홍길동 | <img width="200" height="200" alt="ICT멘토링 캐릭터_이음" src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" />
+   | ㅇㅇ대학교  | 개발총괄, UI/UX기획 |
+| 한이음 | <img width="200" height="200" alt="ICT멘토링 캐릭터_프로" src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" />
+   |  ㅇㅇ대학교  | 백엔드, 프론트엔드 |
+| 김지수 | <img width="200" height="200" alt="ICT멘토링 캐릭터_이브" src="https://github.com/user-attachments/assets/69f6a559-ce87-478c-975c-dfb377996e58" />
+  |  ㅇㅇ대학교  | API개발, DB서버 구축 |
+| 이준우 | <img width="200" height="200" alt="ICT멘토링 캐릭터_이음" src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" />   |  ㅇㅇ대학교  | 데이터 분석 및 전처리 |
+
+
 - 홍길동, ㅇㅇ대학교, 총괄
 - 한이음, ㅇㅇ대학교, 백엔드
 - 김이음, ㅇㅇ대학교, 프론트엔드
