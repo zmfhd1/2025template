@@ -11,12 +11,12 @@
 - **개발 환경** : 검색 엔진을 다양한 도메인(논문, 뉴스, 제품 정보 등)으로 확장할 수 있어, 다양한 산업 분야 적용 가능성 확보
 
 ---
-| 이름      | 사진    | 소속    | 역할                 |
+| 이름      | 사진                                                                                                                                                                                       | 소속    | 역할                 |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------------ |
 | **홍길동** | <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="100" height="100" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | **개발총괄**, UI/UX 기획 |
-| **한이음** | <img src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" width="200" height="100" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | 백엔드, 프론트엔드         |
-| **김지수** | <img src="https://github.com/user-attachments/assets/69f6a559-ce87-478c-975c-dfb377996e58" width="200" height="100" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | API 개발, DB 서버 구축   |
-| **이준우** | <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="200" height="100" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | 데이터 분석 및 전처리       |
+| **한이음** | <img src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" width="100" height="100" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | 백엔드, 프론트엔드         |
+| **김지수** | <img src="https://github.com/user-attachments/assets/69f6a559-ce87-478c-975c-dfb377996e58" width="100" height="100" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | API 개발, DB 서버 구축   |
+| **이준우** | <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="100" height="100" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | 데이터 분석 및 전처리       |
 
 
 ---
