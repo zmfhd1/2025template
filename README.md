@@ -13,7 +13,6 @@
 ---
 
 ## **2. 팀 소개**
-| 이름      | 사진                                                                                                                                                                                       | 소속    | 역할                                                                 |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------------------------------------------------------------------|
 | **홍길동** | <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="100" height="100" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | • 개발총괄<br>• UI/UX 기획                                           |
 | **한이음** | <img src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" width="100" height="100" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | • 백엔드<br>• 프론트엔드                                           |
@@ -24,7 +23,7 @@
 
 ---
 ## **3. 시스템 구성도**
-S/W구성도, H/W구성도, 서비스흐름도 등을 전체적으로 작성(그림을 포함한 도식 또는 흐름으로 표현)
+> **참고** S/W구성도, H/W구성도, 서비스흐름도 등을 전체적으로 작성(그림을 포함한 도식 또는 흐름으로 표현)
 <img alt="image" src="https://github.com/user-attachments/assets/28fc8453-d1a0-4184-8fd0-130d93d18545" />
 
 ---
@@ -42,7 +41,7 @@ S/W구성도, H/W구성도, 서비스흐름도 등을 전체적으로 작성(그
 ---
 
 ## **5. 핵심 소스코드**
-API를 활용해서 자동 배포(Deployment)를 생성하는 기능을 담당하는 메서드
+**참고** API를 활용해서 자동 배포(Deployment)를 생성하는 기능을 담당하는 메서드
 ```java
     private static void start_deployment(JsonObject jsonObject) {
         String user = jsonObject.get("user").getAsJsonObject().get("login").getAsString();
