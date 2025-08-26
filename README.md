@@ -27,7 +27,7 @@
 
 ---
 ## **4. 작품 소개영상**
-[![한이음 드림업 프로젝트 소개](width="600" height="400" https://github.com/user-attachments/assets/16435f88-e7d3-4e45-a128-3d32648d2d84)](https://youtu.be/YcD3Lbn2FRI?si=isERqIAT9Aqvdqwp)
+[![한이음 드림업 프로젝트 소개](https://github.com/user-attachments/assets/16435f88-e7d3-4e45-a128-3d32648d2d84)](https://youtu.be/YcD3Lbn2FRI?si=isERqIAT9Aqvdqwp)
 ```
 [![영상 제목](유튜브 썸네일 URL)](유튜브 영상 URL)
 
