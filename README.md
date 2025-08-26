@@ -13,6 +13,15 @@
 ---
 
 ## **2. 팀 소개**
+| 사진 | 이름 | 소속 | 역할 |
+|------|------|------|-------------------------|
+| <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="120" height="120"> | **홍길동** | ○○대학교 | • 개발총괄 <br> • UI/UX 기획 |
+| <img src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" width="120" height="120"> | **한이음** | ○○대학교 | • 백엔드 <br> • 프론트엔드 |
+| <img src="https://github.com/user-attachments/assets/69f6a559-ce87-478c-975c-dfb377996e58" width="120" height="120"> | **김지수** | ○○대학교 | • API 개발 <br> • DB 서버 구축 |
+| <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="120" height="120"> | **이철수** | ○○대학교 | • 데이터 분석 <br> • 전처리 |
+
+
+
 <table>
   <tr>
     <td align="center" width="150">
