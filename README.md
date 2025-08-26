@@ -14,12 +14,12 @@
 - **활용 분야** : 학술·연구(AI 기반 논문 및 연구자료 검색 자동화), 헬스케어(의료 논문, 임상 데이터, 질병 관련 정보 검색) 등
 
 1-3. 기술 스택
-- **프론트엔드** : React, Next.js, Tailwind CSS
-- **백엔드** : Python(FastAPI), Node.js, Django
-- **AI/ML** : PyTorch, TensorFlow, Hugging Face, OpenAI API
-- **데이터베이스** : PostgreSQL, MongoDB, Elasticsearch
-- **클라우드** : AWS, GCP, Azure
-- **배포 및 관리** : Docker, Kubernetes, GitHub Actions
+- 프론트엔드 : React, Next.js, Tailwind CSS
+- 백엔드 : Python(FastAPI), Node.js, Django
+- AI/ML : PyTorch, TensorFlow, Hugging Face, OpenAI API
+- 데이터베이스 : PostgreSQL, MongoDB, Elasticsearch
+- 클라우드 : AWS
+- 배포 및 관리 : Docker, Kubernetes, GitHub Actions
 
 ---
 
