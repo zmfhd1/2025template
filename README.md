@@ -24,8 +24,7 @@
 ## **3. 시스템 구성도**
 <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/70c9d8d6-a864-4d10-8189-a7751294953b" />
 
-<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/2a94417e-bb4b-40d4-bacc-55133eda585c" />
-
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/7dafb6ee-856a-496f-9f5e-3e84841c43cf" />
 
 ---
 ## **4. 작품 소개영상**
