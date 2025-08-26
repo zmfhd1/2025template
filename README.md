@@ -22,9 +22,9 @@
 
 ---
 ## **3. 시스템 구성도**
-<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/28fc8453-d1a0-4184-8fd0-130d93d18545" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/28fc8453-d1a0-4184-8fd0-130d93d18545" />
 <br>
-<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/7dafb6ee-856a-496f-9f5e-3e84841c43cf" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/7dafb6ee-856a-496f-9f5e-3e84841c43cf" />
 
 ---
 ## **4. 작품 소개영상**
