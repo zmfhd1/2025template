@@ -15,10 +15,10 @@
 ## **2. 팀 소개**
 | 이름      | 사진                                                                                                                                                                                       | 소속    | 역할                                                                 |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------------------------------------------------------------------|
-| **홍길동** | <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="50" height="50" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | • 개발총괄<br>• UI/UX 기획                                           |
-| **한이음** | <img src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" width="50" height="50" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | • 백엔드<br>• 프론트엔드                                           |
-| **김지수** | <img src="https://github.com/user-attachments/assets/69f6a559-ce87-478c-975c-dfb377996e58" width="50" height="50" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | • API 개발<br>• DB 서버 구축                                       |
-| **이철수** | <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="50" height="50" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | • 데이터 분석<br>• 전처리                                           |
+| **홍길동** | <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="80" height="80" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | • 개발총괄<br>• UI/UX 기획                                           |
+| **한이음** | <img src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" width="80" height="80" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | • 백엔드<br>• 프론트엔드                                           |
+| **김지수** | <img src="https://github.com/user-attachments/assets/69f6a559-ce87-478c-975c-dfb377996e58" width="80" height="80" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | • API 개발<br>• DB 서버 구축                                       |
+| **이철수** | <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="80" height="80" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"> | ㅇㅇ대학교 | • 데이터 분석<br>• 전처리                                           |
 
 
 
