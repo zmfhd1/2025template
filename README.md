@@ -27,10 +27,8 @@
 
 ---
 ## **4. 핵심 소스코드**
-```
-아래와 같이 작성하면, 썸네일과 링크등록을 할 수 있습니다.
-[![영상 제목](유튜브 썸네일 URL)](유튜브 영상 URL)
-```
+
+```java
     private static void start_deployment(JsonObject jsonObject) {
         String user = jsonObject.get("user").getAsJsonObject().get("login").getAsString();
         Map<String, String> map = new HashMap<>();
