@@ -51,7 +51,8 @@
 ---
 
 ## **5. 핵심 소스코드**
-**참고** API를 활용해서 자동 배포(Deployment)를 생성하는 기능을 담당하는 메서드
+> **참고**: API를 활용해서 자동 배포를 생성하는 메서드입니다.
+> 
 ```java
     private static void start_deployment(JsonObject jsonObject) {
         String user = jsonObject.get("user").getAsJsonObject().get("login").getAsString();
