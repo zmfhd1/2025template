@@ -18,45 +18,6 @@
 | **홍길동** | **한이음** | **김지수** | **이철수** |
 | ○○대학교 <br> • 개발총괄 <br> • UI/UX 기획 | ○○대학교 <br> • 백엔드 <br> • 프론트엔드 | ○○대학교 <br> • API 개발 <br> • DB 서버 구축 | ○○대학교 <br> • 데이터 분석 <br> • 전처리 |
 
-
-
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="120" height="120" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"><br>
-      <b>홍길동</b><br>
-      ㅇㅇ대학교<br>
-      • 개발총괄<br>
-      • UI/UX 기획
-    </td>
-    <td align="center" width="150">
-      <img src="https://github.com/user-attachments/assets/044c022d-aefb-415e-bdc6-af4d6b0938af" width="120" height="120" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"><br>
-      <b>한이음</b><br>
-      ㅇㅇ대학교<br>
-      • 백엔드<br>
-      • 프론트엔드
-    </td>
-    <td align="center" width="150">
-      <img src="https://github.com/user-attachments/assets/69f6a559-ce87-478c-975c-dfb377996e58" width="120" height="120" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"><br>
-      <b>김지수</b><br>
-      ㅇㅇ대학교<br>
-      • API 개발<br>
-      • DB 서버 구축
-    </td>
-    <td align="center" width="150">
-      <img src="https://github.com/user-attachments/assets/334045b4-4c1d-41e0-9953-c078488ea76f" width="120" height="120" style="border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.2);"><br>
-      <b>이철수</b><br>
-      ㅇㅇ대학교<br>
-      • 데이터 분석<br>
-      • 전처리
-    </td>
-  </tr>
-</table>
-
-
-
-
 ---
 ## **3. 시스템 구성도**
 > **참고** S/W구성도, H/W구성도, 서비스흐름도 등을 전체적으로 작성(그림을 포함한 도식 또는 흐름으로 표현)
