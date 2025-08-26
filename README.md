@@ -38,7 +38,7 @@ S/W구성도, H/W구성도, 서비스흐름도 등을 전체적으로 작성(그
 ---
 
 ## **5. 핵심 소스코드**
-
+API를 활용해서 자동 배포(Deployment)를 생성하는 기능을 담당하는 메서드
 ```java
     private static void start_deployment(JsonObject jsonObject) {
         String user = jsonObject.get("user").getAsJsonObject().get("login").getAsString();
