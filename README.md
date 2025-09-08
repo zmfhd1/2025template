@@ -9,7 +9,9 @@
 **1-1. 프로젝트 소개**
 - 프로젝트 명 : 한이음 드림업 AI검색 서비스
 - 프로젝트 정의 : 사용자의 검색 의도를 이해하고 최적의 정보를 제공하는 AI 기반 맞춤형 검색 서비스
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/399a1518-82ba-432e-9f95-ce7710755e2e" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b25d0039-dfc8-4a6f-85c0-567a92e4039f" />
+
+
 
 
 
