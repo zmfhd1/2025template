@@ -54,10 +54,11 @@
 ---
 ## **💡3. 시스템 구성도**
 > **(참고)** S/W구성도, H/W구성도, 서비스 흐름도 등을 작성합니다. 시스템의 동작 과정 등을 추가할 수도 있습니다.
-- 서비스 흐름도
+- 서비스 구성도
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/28fc8453-d1a0-4184-8fd0-130d93d18545" />
-- 테이블 정의서
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/73e4bcc5-2c4c-46dd-bae6-5d7b019fe5c5" />
+- 테이블 구성도
+<img width="687" height="642" alt="image" src="https://github.com/user-attachments/assets/b70dd275-6909-4907-916a-85deaad7eb07" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/76e3347b-6d94-491e-8aeb-a7b4601c54d5" />
 
 
 ---
