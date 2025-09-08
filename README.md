@@ -1,4 +1,4 @@
-<img width="163" height="69" alt="image" src="https://github.com/user-attachments/assets/cc73d6bc-78d4-4b22-98cf-aa58677d977c" /># 📝[2025년 한이음 드림업] README_SAMPLE
+# 📝[2025년 한이음 드림업] README_SAMPLE
 
 - README 파일 작성시, 아래 5가지 항목 내용은 필수로 작성해야 합니다.
 - 아래 항목이외에 이해를 돕기위한 내용을 자유롭게 추가해도 됩니다.
