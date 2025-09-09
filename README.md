@@ -78,8 +78,7 @@
 
 ---
 ## **💡5. 핵심 소스코드**
-> **작성예시**
-> 소스코드 설명 : API를 활용해서 자동 배포를 생성하는 메서드입니다.
+- 소스코드 설명 : API를 활용해서 자동 배포를 생성하는 메서드입니다.
 
 ```Java
     private static void start_deployment(JsonObject jsonObject) {
